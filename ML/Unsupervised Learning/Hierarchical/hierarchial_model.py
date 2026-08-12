@@ -30,3 +30,4 @@ plt.legend()
 
 data['cluster'] = y_hc
 data.to_csv('Mall_Customers_with_clusters_hierarchical.csv', index=False)
+    
