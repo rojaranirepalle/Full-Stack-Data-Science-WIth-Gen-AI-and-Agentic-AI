@@ -1,2 +1,4 @@
 /DL/images/
 .venv-tf/
+.DS_Store
+.vscode/
