@@ -12,6 +12,7 @@ while True:
         print("Error: Could not read frame from video.")
         break  # Exit the loop if the frame is not read
 
+    
     lower_green = np.array([40, 100, 100])  # Lower bound for green color in HSV
     upper_green = np.array([80, 255, 255])  # Upper bound
 
