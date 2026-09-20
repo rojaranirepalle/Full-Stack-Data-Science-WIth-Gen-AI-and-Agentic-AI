@@ -2,3 +2,9 @@
 .venv-tf/
 .DS_Store
 .vscode/
+myenv/
+mpenv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
