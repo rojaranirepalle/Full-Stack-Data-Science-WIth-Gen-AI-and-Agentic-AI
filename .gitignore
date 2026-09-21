@@ -10,3 +10,25 @@ __pycache__/
 *.pyc
 .env
 *.env
+
+# --- Data: never commit (code-only repo) ---
+.DS_Store
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.npz
+*.npy
+*.pkl
+*.pickle
+*.h5
+*.keras
+*.pt
+*.pth
+*.sqlite
+*.db
+*.docx
+*.log
+**/data/
+**/datasets/
