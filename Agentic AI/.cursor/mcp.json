@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "agentic-math-files": {
+      "command": "/Users/rojarani/Documents/AIML/GitAIML/Full-Stack-Data-Science-WIth-Gen-AI-and-Agentic-AI/.venv-tf/bin/python",
+      "args": ["${workspaceFolder}/MCP/server.py"]
+    }
+  }
+}
